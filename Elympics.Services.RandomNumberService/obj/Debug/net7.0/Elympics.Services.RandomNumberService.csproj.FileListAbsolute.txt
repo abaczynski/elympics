@@ -1,0 +1,15 @@
+C:\development\projects\elympics\Elympics.Services.RandomNumberService\bin\Debug\net7.0\Elympics.Services.RandomNumberService.deps.json
+C:\development\projects\elympics\Elympics.Services.RandomNumberService\bin\Debug\net7.0\Elympics.Services.RandomNumberService.dll
+C:\development\projects\elympics\Elympics.Services.RandomNumberService\bin\Debug\net7.0\Elympics.Services.RandomNumberService.pdb
+C:\development\projects\elympics\Elympics.Services.RandomNumberService\bin\Debug\net7.0\Elympics.Core.dll
+C:\development\projects\elympics\Elympics.Services.RandomNumberService\bin\Debug\net7.0\Elympics.Core.pdb
+C:\development\projects\elympics\Elympics.Services.RandomNumberService\obj\Debug\net7.0\Elympics.Services.RandomNumberService.csproj.AssemblyReference.cache
+C:\development\projects\elympics\Elympics.Services.RandomNumberService\obj\Debug\net7.0\Elympics.Services.RandomNumberService.GeneratedMSBuildEditorConfig.editorconfig
+C:\development\projects\elympics\Elympics.Services.RandomNumberService\obj\Debug\net7.0\Elympics.Services.RandomNumberService.AssemblyInfoInputs.cache
+C:\development\projects\elympics\Elympics.Services.RandomNumberService\obj\Debug\net7.0\Elympics.Services.RandomNumberService.AssemblyInfo.cs
+C:\development\projects\elympics\Elympics.Services.RandomNumberService\obj\Debug\net7.0\Elympics.Services.RandomNumberService.csproj.CoreCompileInputs.cache
+C:\development\projects\elympics\Elympics.Services.RandomNumberService\obj\Debug\net7.0\Elympics.Services.RandomNumberService.csproj.CopyComplete
+C:\development\projects\elympics\Elympics.Services.RandomNumberService\obj\Debug\net7.0\Elympics.Services.RandomNumberService.dll
+C:\development\projects\elympics\Elympics.Services.RandomNumberService\obj\Debug\net7.0\refint\Elympics.Services.RandomNumberService.dll
+C:\development\projects\elympics\Elympics.Services.RandomNumberService\obj\Debug\net7.0\Elympics.Services.RandomNumberService.pdb
+C:\development\projects\elympics\Elympics.Services.RandomNumberService\obj\Debug\net7.0\ref\Elympics.Services.RandomNumberService.dll

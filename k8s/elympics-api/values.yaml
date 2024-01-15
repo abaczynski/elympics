@@ -1,0 +1,16 @@
+# values.yaml
+replicaCount: 2
+container:
+  name: elympics-api
+  image: host.docker.internal:5000/elympics-api:latest
+  pullPolicy: IfNotPresent
+  containerPort: 5000
+
+service:
+  name: elympics-app-service
+  type: LoadBalancer
+  port: 8082
+  targetPort: 5000
+
+ingress:
+  enabled: false

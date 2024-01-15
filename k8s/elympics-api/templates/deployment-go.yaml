@@ -1,0 +1,20 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: elympics-go-dpl
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: elympicsrandom
+  template:
+    metadata:
+      labels:
+        app: elympicsrandom
+    spec:
+      containers:
+      - name: elympicsrandom
+        image: localhost:5000/elympics-random
+        imagePullPolicy: IfNotPresent
+        ports:
+        - containerPort: 5001

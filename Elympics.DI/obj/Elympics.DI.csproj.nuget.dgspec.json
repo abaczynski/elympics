@@ -1,0 +1,288 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\development\\projects\\elympics\\Elympics.DI\\Elympics.DI.csproj": {}
+  },
+  "projects": {
+    "c:\\development\\projects\\elympics\\Elympics.Core\\Elympics.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\development\\projects\\elympics\\Elympics.Core\\Elympics.Core.csproj",
+        "projectName": "Elympics.Core",
+        "projectPath": "c:\\development\\projects\\elympics\\Elympics.Core\\Elympics.Core.csproj",
+        "packagesPath": "C:\\Users\\baczy\\.nuget\\packages\\",
+        "outputPath": "c:\\development\\projects\\elympics\\Elympics.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\baczy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\development\\projects\\elympics\\Elympics.Data\\Elympics.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\development\\projects\\elympics\\Elympics.Data\\Elympics.Data.csproj",
+        "projectName": "Elympics.Data",
+        "projectPath": "c:\\development\\projects\\elympics\\Elympics.Data\\Elympics.Data.csproj",
+        "packagesPath": "C:\\Users\\baczy\\.nuget\\packages\\",
+        "outputPath": "c:\\development\\projects\\elympics\\Elympics.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\baczy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "c:\\development\\projects\\elympics\\Elympics.Core\\Elympics.Core.csproj": {
+                "projectPath": "c:\\development\\projects\\elympics\\Elympics.Core\\Elympics.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.15, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[7.0.15, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\development\\projects\\elympics\\Elympics.DI\\Elympics.DI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\development\\projects\\elympics\\Elympics.DI\\Elympics.DI.csproj",
+        "projectName": "Elympics.DI",
+        "projectPath": "c:\\development\\projects\\elympics\\Elympics.DI\\Elympics.DI.csproj",
+        "packagesPath": "C:\\Users\\baczy\\.nuget\\packages\\",
+        "outputPath": "c:\\development\\projects\\elympics\\Elympics.DI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\baczy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "c:\\development\\projects\\elympics\\Elympics.Core\\Elympics.Core.csproj": {
+                "projectPath": "c:\\development\\projects\\elympics\\Elympics.Core\\Elympics.Core.csproj"
+              },
+              "c:\\development\\projects\\elympics\\Elympics.Data\\Elympics.Data.csproj": {
+                "projectPath": "c:\\development\\projects\\elympics\\Elympics.Data\\Elympics.Data.csproj"
+              },
+              "c:\\development\\projects\\elympics\\Elympics.Services.RandomNumberService\\Elympics.Services.RandomNumberService.csproj": {
+                "projectPath": "c:\\development\\projects\\elympics\\Elympics.Services.RandomNumberService\\Elympics.Services.RandomNumberService.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.15, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\development\\projects\\elympics\\Elympics.Services.RandomNumberService\\Elympics.Services.RandomNumberService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\development\\projects\\elympics\\Elympics.Services.RandomNumberService\\Elympics.Services.RandomNumberService.csproj",
+        "projectName": "Elympics.Services.RandomNumberService",
+        "projectPath": "c:\\development\\projects\\elympics\\Elympics.Services.RandomNumberService\\Elympics.Services.RandomNumberService.csproj",
+        "packagesPath": "C:\\Users\\baczy\\.nuget\\packages\\",
+        "outputPath": "c:\\development\\projects\\elympics\\Elympics.Services.RandomNumberService\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\baczy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "c:\\development\\projects\\elympics\\Elympics.Core\\Elympics.Core.csproj": {
+                "projectPath": "c:\\development\\projects\\elympics\\Elympics.Core\\Elympics.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

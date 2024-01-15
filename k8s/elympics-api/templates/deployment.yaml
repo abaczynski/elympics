@@ -1,0 +1,20 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: elympics-api-dpl
+spec:
+  replicas: {{ .Values.replicaCount }}
+  selector:
+    matchLabels:
+      app: {{ .Values.container.name }}
+  template:
+    metadata:
+      labels:
+        app:  {{ .Values.container.name }}
+    spec:
+      containers:
+      - name:  {{ .Values.container.name }}
+        image:  {{ .Values.container.image }}
+        imagePullPolicy:  {{ .Values.container.pullPolicy }}
+        ports:
+        - containerPort: {{ .Values.container.containerPort }}

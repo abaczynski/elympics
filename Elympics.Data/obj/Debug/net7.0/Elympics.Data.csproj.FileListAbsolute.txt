@@ -1,0 +1,17 @@
+C:\development\projects\elympics\Elympics.Data\bin\Debug\net7.0\Elympics.Data.deps.json
+C:\development\projects\elympics\Elympics.Data\bin\Debug\net7.0\Elympics.Data.runtimeconfig.json
+C:\development\projects\elympics\Elympics.Data\bin\Debug\net7.0\Elympics.Data.dll
+C:\development\projects\elympics\Elympics.Data\bin\Debug\net7.0\Elympics.Data.pdb
+C:\development\projects\elympics\Elympics.Data\obj\Debug\net7.0\Elympics.Data.csproj.AssemblyReference.cache
+C:\development\projects\elympics\Elympics.Data\obj\Debug\net7.0\Elympics.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\development\projects\elympics\Elympics.Data\obj\Debug\net7.0\Elympics.Data.AssemblyInfoInputs.cache
+C:\development\projects\elympics\Elympics.Data\obj\Debug\net7.0\Elympics.Data.AssemblyInfo.cs
+C:\development\projects\elympics\Elympics.Data\obj\Debug\net7.0\Elympics.Data.csproj.CoreCompileInputs.cache
+C:\development\projects\elympics\Elympics.Data\obj\Debug\net7.0\Elympics.Data.dll
+C:\development\projects\elympics\Elympics.Data\obj\Debug\net7.0\refint\Elympics.Data.dll
+C:\development\projects\elympics\Elympics.Data\obj\Debug\net7.0\Elympics.Data.pdb
+C:\development\projects\elympics\Elympics.Data\obj\Debug\net7.0\Elympics.Data.genruntimeconfig.cache
+C:\development\projects\elympics\Elympics.Data\obj\Debug\net7.0\ref\Elympics.Data.dll
+C:\development\projects\elympics\Elympics.Data\bin\Debug\net7.0\Elympics.Core.dll
+C:\development\projects\elympics\Elympics.Data\bin\Debug\net7.0\Elympics.Core.pdb
+C:\development\projects\elympics\Elympics.Data\obj\Debug\net7.0\Elympics.Data.csproj.CopyComplete
